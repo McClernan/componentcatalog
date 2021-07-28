@@ -1,5 +1,4 @@
-# componentcatalog
-Google Material Component Catalog
+# Google Material Component Catalog
 
 <table>
   <tr><th>Version#</th><th>NAME</th><th>FUNCTIONALITY</th><th>PLATFORM</th><th>VERSION</th><th>ISSUES/QUESTIONS</th><th>SOURCE</th></tr>
